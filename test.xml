@@ -6,18 +6,14 @@
 <title>Glen's Blog</title>
 <intro>Talks about everything, add me to your rss feed btw</intro>
 <language>en-us</language>
-<link>http://yourwebsite.com/rss.xml</link>
-<atom:link href="https:///rss.xml" rel="self" type="application/rss+xml" />
+<link>https://glen-programmer.github.io/glen-home/test.xml</link>
+<atom:link href="https://glen-programmer.github.io/glen-home/test.xml" rel="self" type="application/rss+xml" />
 
 <item>
 <header>My First Blog</header>
 <pubDate>2020 | 3 | 13</pubDate>
 <description>
-    Hello Everyone!
-    <br></br>
-    This is a message sent through rss.
-    <br></br>
-    Everyone should use rss for their blogs.
+<![CDATA[Hello Everyone! This is a message sent through rss. Everyone should use rss for their blogs.]]>
 </description>
 </item>
 

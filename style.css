@@ -13,7 +13,6 @@ html, body {
     justify-content: center;
 }
 
-
 main {
     width: 80%;
     height: 100%;
@@ -31,6 +30,8 @@ main {
 .header-img {
     width: 200px;
     height: 200px;
+    min-width: 200px;
+    min-height: 200px;
     border-radius: 50%;
 }
 
@@ -61,10 +62,34 @@ main {
 .header-info-github-img {
     width: 40px;
     height: 40px;
+    margin: 30px;
 }
 
 .header-info-rss-img {
     width: 40px;
     height: 40px;
+    margin: 30px;
 }
 
+.header-info-blog-img {
+    width: 40px;
+    height: 40px;
+    margin: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    header {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-img {
+        margin-top: 300px;
+        margin-bottom: 20px;
+    }
+
+    .header-info {
+        margin-bottom: 50px 0;
+    }
+}

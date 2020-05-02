@@ -29,6 +29,8 @@ img {
 section {
   border: 0.1px solid #eee;
   padding: 5px;
+  margin: 5px;
+  width: 80%;
 }
 
 h1 {

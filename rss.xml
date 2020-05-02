@@ -2,19 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-<url>https://glen-programmer.github.io/glen-home/rss.xml</url>
 <title>Glen's Blog</title>
 <intro>Talks about everything</intro>
+<copyright>Glen owns it</copyright>
 <language>en-us</language>
-<link>https://glen-programmer.github.io/glen-home/test.xml</link>
-<atom:link href="https://glen-programmer.github.io/glen-home/test.xml" rel="self" type="application/rss+xml" />
+<link>https://glen-programmer.github.io/glen-home/rss.xml</link>
+<atom:link href="https://glen-programmer.github.io/glen-home/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
-<header>My First Blog</header>
-<pubDate>2020 | 3 | 13</pubDate>
+<title>Productivity Being the Modern BS</title>
+<pubDate>Sat 02 May 2020 10:00:00 PM</pubDate>
 <description>
   <![CDATA[
-  <p>Hello Everyone! This is a message sent through rss.</p>
+    <p>
+      Hugely influenced and inspired by
+      <a href="https://invidio.us/watch?v=eVwW6Jq3_TE">Our Productivity Obsession</a>
+    </p>
+    <h3>Productivity takes root from a set of Assumptions</h3>
+    <ul>
+      <li>Being more productive improve quality of life</li>
+      <li>Some random dudes from the internet know how to make you
+	productive</li>
+      <li>You don't know how to be productive</li>
+    </ul>
+
+    <p>Productivity-related materials, despite being in multiple
+      forms: videos, podcasts, written words, can be categorized into
+      2 main groups based on their 'natures'.</p>
+    <ol>
+      <li>Motivational materials</li>
+      <li>Informative materials</li>
+    </ol>
+    <p>And we shall discuss their flaws one by one</p>
+
+    <h3>To do xyz, first you need to be motivated</h3>
+    <p>If you have achieved anything, naming those insignificant ones, such
+    as throwing the rubbish in the nearby recycling station, you
+    normally know how to repeat your actions(ofc). For those actions that
+    we carried out routinely, we form habits out of it. We don't need
+    motivation to do those.</p>
+    <p>For more difficult tasks, naming those you don't perceive them
+    as entertainment, non-routines, you need to have good
+    justification for yourself to do these tasks. If you know it is
+    important and urgent, you might just do it in order to avoid
+    consequences. However, for those without clear deadlines,
+    reaching a higher level of 'Activational Energy' become much
+    difficult.</p>
+    <p>It is alright though, since the stuff that need to be done,
+    should be done naturally one way or another. Not for those cannot
+    be done, however.</p>
+    <p>xyz need motivational videos, since he</p>
+    <ol>
+      <li>Doesn't have the 'Activational Energy' required to do abc</li>
+      <li>Doesn't have good causes for doing abc</li>
+      <li>Doesn't think it is important and urgent to do abc</li>
+      <li>Doesn't think abc could be done unless you are 'better'</li>
+    </ol>
+    <p>No motivational videos are featuring the current you, they are
+    featuring the people who are 'better', more educated, more
+    insightful, richer, stronger, or simply more angry.</p>
+    <p>By opting for lays down and watches that gray-scale video until
+    Uncle Gary finished his speech, you truly believe that you can be
+    'better' or having more 'willpowers' to do xyz, to a degree that
+    the lost hours that you tore your hearts off, can easily be
+    compensated by the future you working harder than ever.</p>
+    <p>Right?</p>
+
+    <h3>Someone else knows me better</h3>
+    <p>Of course this is sometimes the case. Being a extremely
+    subjective entity, a person could not see his flaws easily. That's
+    why we need to 'be an observer', judging ourself in a objective
+    manner.(ofc again)</p>
+    <p>It's easily the case when someone, especially those acclaimed
+    figures, to be more objectively productive than you or to be more
+    knowledgeable than you. By opting for lays down and watches that
+    animated drawing video with cringy cartoon, you truly believe that
+    you can learn something you don't already know about
+    'productivity' and 'working hard', and you wholeheartedly believe
+    that the morning-routine of anut Michelle can be copied roughly to
+    fit your lifestyle and quirks. (Let's us at least assume that what 
+    they tell you is real and those rituals are actually productive.) </p>
+    <p>More than nothing huh?</p>
+
+    <h3>This is just a start</h3>
+    <p>It is not your faults evolving from binge-watching-netflix
+    normie to binge-watching-youtube chad. No one could give you
+    gold nuggets if they don't have any, not one could have any gold
+    nuggets unless there is a magical gold mine in San Francisco.</p>
+
+    <h3>Why do they put out those contents?</h3>
+    <ol>
+      <li>Frick yes, I just learnt from personal experience that doing
+      abc is better than doing xyz</li>
+      <li>I just want to be somewhat influential and successful</li>
+      <li>People like these types of contents, so I make them, and I
+      could sell my merch, books, online courses whatever</li>
+    </ol>
+    <p>Undoubtedly, our lovely economy awards those people who create
+    viral contents monetarily. Those full of rhetorics, competitive
+    'content-creators' could lose their market values easily, and
+    that's basically their motivation and incentive behind all of the
+    works they devoted their time to.</p>
+    <p>The business model of productivity contents boils down to
+    acquiring your time and attention, give you some seemingly great
+    contents so that you feel good about yourself, then rip the poop
+    out of you by selling stuff and hosting VPNs' ads. Such business model
+    fuels their gut to constantly create 'better' videos to buy their 
+    groceries and pay for Youtube Premium.</p>
+    <p>To the consumers, it is a bad news. Since what you perfer
+    is 'one-video-to-rule-them-all', not the daily update on
+    'how-to-be-productive-for-the-next-2-hours'. The more time and
+    money you spend on contents, more you may be lucky enough to hear
+    something astounding, at the same time more addicted to nonsense
+    and less time for actually doing 'the work'.</p>
+
+    <h3>I don't trust you, don't forget you are also just a random guy from
+    the internet, who may be writing this for ill purposes. And you
+    have poor grammar.</h3>
+    <p>You shouldn't all of what I just said and my grammar is poor.
+    But at least you could learn some Economics101.</p>
+    <p>Opportunity Cost is defined as the highest-valued option
+      forgone.</p>
+    <p>Opportunity Cost = Time Cost + Money Cost.</p>
+    <p>When you are watching the same productivity video over and over
+    again, be sure to have nothing more valuable to do.</p>
+    <p>Notorious Law of DMR - Diminishing Marginal Returns states that
+    as you increase the some means of production(in this case, time),
+    the output of a production process decreases.</p>
+    <p>Just think of it as: more stuff you consooooomed, less stuff
+      you get.</p>
+    <p>Ok you shall close this tab now.(by RSS Gang)</p>
   ]]>
 </description>
 </item>
